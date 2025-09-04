@@ -1,7 +1,7 @@
-[06:04:39] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[06:04:39] [INIT] Loaded plugins:
-[06:04:39] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[06:04:39] [INIT] - com.klikli_dev.occultism_kubejs.KubeJSOccultismPlugin
-[06:04:39] [INFO] example.js#5: Hello, World! (Loaded startup scripts)
-[06:04:40] [INFO] Loaded script startup_scripts:example.js in 0.238 s
-[06:04:40] [INFO] Loaded 1/1 KubeJS startup scripts in 0.674 s with 0 errors and 0 warnings
+[14:57:27] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[14:57:27] [INIT] Loaded plugins:
+[14:57:27] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[14:57:27] [INIT] - com.klikli_dev.occultism_kubejs.KubeJSOccultismPlugin
+[14:57:27] [INFO] example.js#5: Hello, World! (Loaded startup scripts)
+[14:57:27] [INFO] Loaded script startup_scripts:example.js in 0.085 s
+[14:57:27] [INFO] Loaded 1/1 KubeJS startup scripts in 0.466 s with 0 errors and 0 warnings

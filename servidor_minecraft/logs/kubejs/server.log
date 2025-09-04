@@ -1,9 +1,9 @@
-[06:04:53] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[06:04:53] [INIT] Loaded plugins:
-[06:04:53] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[06:04:53] [INIT] - com.klikli_dev.occultism_kubejs.KubeJSOccultismPlugin
-[06:04:54] [INFO] example.js#5: Hello, World! (Loaded server scripts)
-[06:04:54] [INFO] Loaded script server_scripts:example.js in 0.001 s
-[06:04:54] [INFO] Loaded 1/1 KubeJS server scripts in 0.013 s with 0 errors and 0 warnings
-[06:04:54] [INFO] Scripts loaded
-[06:05:05] [INFO] Server resource reload complete!
+[14:57:40] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[14:57:40] [INIT] Loaded plugins:
+[14:57:40] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[14:57:40] [INIT] - com.klikli_dev.occultism_kubejs.KubeJSOccultismPlugin
+[14:57:41] [INFO] example.js#5: Hello, World! (Loaded server scripts)
+[14:57:41] [INFO] Loaded script server_scripts:example.js in 0.001 s
+[14:57:41] [INFO] Loaded 1/1 KubeJS server scripts in 0.013 s with 0 errors and 0 warnings
+[14:57:41] [INFO] Scripts loaded
+[14:57:52] [INFO] Server resource reload complete!
