@@ -1084,3 +1084,96 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:set_components'
 [04Sep2025 15:16:01.171] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=56, z=0}
 [04Sep2025 15:16:47.122] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
 [04Sep2025 15:16:47.122] [Server thread/INFO] [betterendisland/]: Found all crystals, starting initial dragon spawn.
+[04Sep2025 15:17:17.276] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=56, z=0}
+[04Sep2025 15:17:59.758] [Server thread/WARN] [jeg/]: literal{ExultantBeast16}(ad1685c2-daa4-321f-8c44-1a7da2e84a3b) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 78
+[04Sep2025 15:18:13.770] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing events...
+[04Sep2025 15:18:13.771] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing memory leaks so far...
+[04Sep2025 15:18:13.773] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: B: 1384MB / C: 1733MB / Diff: +349MB
+[04Sep2025 15:18:13.774] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[04Sep2025 15:18:13.774] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: | ChunkAccess:
+[04Sep2025 15:18:13.775] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: |- LevelChunk (minecraft): 1183
+[04Sep2025 15:20:21.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ExultantBeast16: Set spawn point to -7, 64, -12 [0.0] in minecraft:the_end for ExultantBeast16]
+[04Sep2025 15:20:29.741] [Server thread/WARN] [tombstone/]: The death event of the player ExultantBeast16 was canceled by another mod
+[04Sep2025 15:20:29.746] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=56, z=0}
+[04Sep2025 15:20:29.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ExultantBeast16: Killed 417 entities]
+[04Sep2025 15:20:29.858] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3239ms or 64 ticks behind
+[04Sep2025 15:20:29.939] [Server thread/INFO] [tombstone/]: The player ExultantBeast16 has successfully been saved
+[04Sep2025 15:20:35.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExultantBeast16 was killed
+[04Sep2025 15:20:35.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExultantBeast16 has made the advancement [Your First Grave]
+[04Sep2025 15:20:35.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ExultantBeast16: Killed ExultantBeast16]
+[04Sep2025 15:20:35.058] [Server thread/INFO] [tombstone/]: The player ExultantBeast16 has successfully been saved
+[04Sep2025 15:20:36.267] [Server thread/ERROR] [dev.uncandango.alltheleaks.AllTheLeaks/]: Cloned player is invalid, removal reason is null!
+dev.uncandango.alltheleaks.exceptions.ATLIllegalState: Cannot have null removal reason on Clone event!
+	at dev.uncandango.alltheleaks.events.common.GameBusEvent.onPlayerCloneLowest(GameBusEvent.java:39) ~[alltheleaks-1.0.2+1.20.1-forge.jar%23291!/:1.0.2+1.20.1-forge]
+	at dev.uncandango.alltheleaks.events.common.__GameBusEvent_onPlayerCloneLowest_Clone.invoke(.dynamic) ~[alltheleaks-1.0.2+1.20.1-forge.jar%23291!/:1.0.2+1.20.1-forge]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.event.ForgeEventFactory.onPlayerClone(ForgeEventFactory.java:540) ~[forge-1.20.1-47.4.6-universal.jar%23474!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9015_(ServerPlayer.java:1159) ~[server-1.20.1-20230612.114412-srg.jar%23469!/:?]
+	at net.minecraft.server.players.PlayerList.m_11236_(PlayerList.java:442) ~[server-1.20.1-20230612.114412-srg.jar%23469!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6272_(ServerGamePacketListenerImpl.java:1515) ~[server-1.20.1-20230612.114412-srg.jar%23469!/:?]
+	at net.minecraft.network.protocol.game.ServerboundClientCommandPacket.m_5797_(ServerboundClientCommandPacket.java:24) ~[server-1.20.1-20230612.114412-srg.jar%23469!/:?]
+	at net.minecraft.network.protocol.game.ServerboundClientCommandPacket.m_5797_(ServerboundClientCommandPacket.java:6) ~[server-1.20.1-20230612.114412-srg.jar%23469!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23469!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23469!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23469!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23469!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23469!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23469!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23469!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23469!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23469!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23469!/:?]
+	at net.minecraft.server.MinecraftServer.mixinextras$bridge$m_18701_$279(MinecraftServer.java) ~[server-1.20.1-20230612.114412-srg.jar%23469!/:?]
+	at net.minecraft.server.MinecraftServer.wrapOperation$zbm000$managedBlock(MinecraftServer.java:1856) ~[server-1.20.1-20230612.114412-srg.jar%23469!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23469!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23469!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23469!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[04Sep2025 15:20:40.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExultantBeast16 has reached the goal [Here They Come]
+[04Sep2025 15:21:09.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExultantBeast16 has made the advancement [Remote Getaway]
+[04Sep2025 15:22:09.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExultantBeast16 has made the advancement [The Iron Curtain]
+[04Sep2025 15:22:12.844] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [14, 92], pos: BlockPos{x=232, y=66, z=1487}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / outer_end:dead_rainbow_feature]
+[04Sep2025 15:22:12.845] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [14, 92], pos: BlockPos{x=232, y=64, z=1487}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / outer_end:dead_rainbow_feature]
+[04Sep2025 15:22:12.846] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [14, 92], pos: BlockPos{x=232, y=58, z=1487}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / outer_end:dead_rainbow_feature]
+[04Sep2025 15:22:12.846] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [14, 92], pos: BlockPos{x=232, y=53, z=1487}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / outer_end:dead_rainbow_feature]
+[04Sep2025 15:22:12.847] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [14, 92], pos: BlockPos{x=232, y=49, z=1487}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / outer_end:dead_rainbow_feature]
+[04Sep2025 15:22:21.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExultantBeast16 has made the advancement [A Poised Place]
+[04Sep2025 15:23:14.764] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [14, 92], pos: BlockPos{x=232, y=66, z=1487}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / outer_end:dead_rainbow_feature]
+[04Sep2025 15:23:14.765] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [14, 92], pos: BlockPos{x=232, y=64, z=1487}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / outer_end:dead_rainbow_feature]
+[04Sep2025 15:23:14.765] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [14, 92], pos: BlockPos{x=232, y=58, z=1487}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / outer_end:dead_rainbow_feature]
+[04Sep2025 15:23:14.765] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [14, 92], pos: BlockPos{x=232, y=53, z=1487}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / outer_end:dead_rainbow_feature]
+[04Sep2025 15:23:14.765] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [14, 92], pos: BlockPos{x=232, y=49, z=1487}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / outer_end:dead_rainbow_feature]
+[04Sep2025 15:23:17.775] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ExultantBeast16 lost connection: Disconnected
+[04Sep2025 15:23:17.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExultantBeast16 left the game
+[04Sep2025 15:23:17.780] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ExultantBeast16
+[04Sep2025 15:23:26.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[04Sep2025 15:23:26.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[04Sep2025 15:23:26.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[04Sep2025 15:23:26.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[04Sep2025 15:23:26.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04Sep2025 15:23:26.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[04Sep2025 15:23:26.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/astral_dimension:setback
+[04Sep2025 15:23:26.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/thermal_shock:loqendia
+[04Sep2025 15:23:26.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/astral_dimension:astral_dimension
+[04Sep2025 15:23:26.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[04Sep2025 15:23:26.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[04Sep2025 15:23:26.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[04Sep2025 15:23:26.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04Sep2025 15:23:26.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[04Sep2025 15:23:26.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04Sep2025 15:23:26.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04Sep2025 15:23:26.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[04Sep2025 15:23:26.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (setback): All chunks are saved
+[04Sep2025 15:23:26.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (loqendia): All chunks are saved
+[04Sep2025 15:23:26.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (astral_dimension): All chunks are saved
+[04Sep2025 15:23:26.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[04Sep2025 15:23:26.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[04Sep2025 15:23:26.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[04Sep2025 15:23:26.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04Sep2025 15:23:26.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[04Sep2025 15:23:26.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04Sep2025 15:23:26.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04Sep2025 15:23:27.458] [Server thread/INFO] [Framework/]: Unloading server configs...
+[04Sep2025 15:23:27.458] [Server thread/INFO] [Framework/]: Finished unloading server configs
