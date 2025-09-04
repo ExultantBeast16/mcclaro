@@ -1501,3 +1501,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:set_components'
 [04Sep2025 23:43:50.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ExultantBeast16: Summoned new Warden]
 [04Sep2025 23:44:20.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExultantBeast16 has completed the challenge [Phantom Thief]
 [04Sep2025 23:45:41.099] [Server thread/WARN] [jeg/]: literal{ExultantBeast16}(ad1685c2-daa4-321f-8c44-1a7da2e84a3b) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 82
+[04Sep2025 23:47:00.889] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing events...
+[04Sep2025 23:47:00.889] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing memory leaks so far...
+[04Sep2025 23:47:00.889] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Waiting to stabilize [1/10]
+[04Sep2025 23:47:00.890] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[04Sep2025 23:47:00.890] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: | ChunkAccess:
+[04Sep2025 23:47:00.890] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: |- LevelChunk (minecraft): 1641
