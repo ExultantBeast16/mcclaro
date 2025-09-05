@@ -2117,39 +2117,15 @@
     },
     "done": true
   },
-  "astral_dimension:astral": {
+  "supplementaries:recipes/sconce": {
     "criteria": {
-      "astral_0": "2025-09-05 18:23:55 +0000"
+      "has_torch": "2025-09-05 18:10:05 +0000"
     },
     "done": true
   },
   "dungeonnowloading:story/labyrinth/find_labyrinth": {
     "criteria": {
       "find_labyrinth": "2025-09-05 18:10:39 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/glowing_poison_stone": {
-    "criteria": {
-      "has_item": "2025-09-05 18:20:37 +0000"
-    },
-    "done": true
-  },
-  "dungeonnowloading:story/root": {
-    "criteria": {
-      "obtain_crafting_table": "2025-09-05 18:21:11 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/glowing_blinding_stone": {
-    "criteria": {
-      "has_item": "2025-09-05 18:20:37 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/appliances/crafting_blueprint": {
-    "criteria": {
-      "has_item": "2025-09-05 18:21:11 +0000"
     },
     "done": true
   },
@@ -2165,15 +2141,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/spectral_arrow": {
+  "blue_skies:recipes/building_blocks/glowing_poison_stone": {
     "criteria": {
-      "has_glowstone_dust": "2025-09-05 18:20:37 +0000"
+      "has_item": "2025-09-05 18:20:37 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/sconce": {
+  "blue_skies:recipes/building_blocks/glowing_blinding_stone": {
     "criteria": {
-      "has_torch": "2025-09-05 18:10:05 +0000"
+      "has_item": "2025-09-05 18:20:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-09-05 18:20:37 +0000"
     },
     "done": true
   },
@@ -2195,9 +2177,105 @@
     },
     "done": true
   },
+  "dungeonnowloading:story/root": {
+    "criteria": {
+      "obtain_crafting_table": "2025-09-05 18:21:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/crafting_blueprint": {
+    "criteria": {
+      "has_item": "2025-09-05 18:21:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-09-05 18:21:11 +0000"
+    },
+    "done": true
+  },
+  "astral_dimension:astral": {
+    "criteria": {
+      "astral_0": "2025-09-05 18:23:55 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-05 18:36:08 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-05 18:36:08 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-05 18:36:08 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-05 18:36:08 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-05 18:36:08 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-05 18:36:08 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-05 18:36:08 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-05 18:36:08 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-05 18:36:08 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-05 18:36:08 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-05 18:36:08 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-05 18:36:08 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-09-05 18:35:05 +0000"
     },
     "done": true
   },
