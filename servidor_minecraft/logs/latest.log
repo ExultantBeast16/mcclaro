@@ -1050,3 +1050,18 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:set_components'
 [05Sep2025 18:08:20.794] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element dungeonnowloading:labyrinth took 5 ms
 [05Sep2025 18:08:52.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExultantBeast16 has made the advancement [It's an Emu!!!]
 [05Sep2025 18:09:02.341] [Worker-Main-12/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/5112, l='ServerLevel[world]', x=-539.50, y=-28.00, z=1018.50] as it would cause deadlock
+[05Sep2025 18:10:39.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExultantBeast16 has made the advancement [Labyrinth]
+[05Sep2025 18:11:04.938] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[05Sep2025 18:11:05.069] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing events...
+[05Sep2025 18:11:05.070] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing memory leaks so far...
+[05Sep2025 18:11:05.073] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Waiting to stabilize [0/10]
+[05Sep2025 18:11:05.074] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[05Sep2025 18:11:05.074] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: | ChunkAccess:
+[05Sep2025 18:11:05.075] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: |- LevelChunk (minecraft): 885
+[05Sep2025 18:13:33.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ExultantBeast16: Set own game mode to Spectator Mode]
+[05Sep2025 18:13:50.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ExultantBeast16: Applied effect Night Vision to ExultantBeast16]
+[05Sep2025 18:14:51.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ExultantBeast16: Set own game mode to Creative Mode]
+[05Sep2025 18:15:37.930] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ExultantBeast16 moved too quickly! 7.231106786368969,-5.999265781607811,-3.518790087361822
+[05Sep2025 18:16:03.458] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[05Sep2025 18:16:07.520] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ExultantBeast16 moved too quickly! 2.661171020543975,-1.54821554243496,-10.136698427007786
+[05Sep2025 18:16:09.122] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ExultantBeast16 moved too quickly! -1.1596597883102504,3.8445663164694253,-9.387456249096886
