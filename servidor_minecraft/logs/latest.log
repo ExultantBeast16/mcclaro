@@ -1507,3 +1507,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:set_components'
 [04Sep2025 23:47:00.890] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
 [04Sep2025 23:47:00.890] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: | ChunkAccess:
 [04Sep2025 23:47:00.890] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: |- LevelChunk (minecraft): 1641
+[04Sep2025 23:56:46.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExultantBeast16 has made the advancement [Ender Distancing]
+[04Sep2025 23:57:00.938] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing events...
+[04Sep2025 23:57:00.938] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing memory leaks so far...
+[04Sep2025 23:57:00.938] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Waiting to stabilize [0/10]
+[04Sep2025 23:57:00.938] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: No memory leak detected!

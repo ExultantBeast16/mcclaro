@@ -1251,12 +1251,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-09-04 23:52:00 +0000"
-    },
-    "done": false
-  },
   "dungeons_arise:find_aviary": {
     "criteria": {
       "location0": "2025-09-04 23:37:12 +0000"
@@ -1515,6 +1509,12 @@
     },
     "done": true
   },
+  "chipped:recipes/tinkering_table": {
+    "criteria": {
+      "has_tinkering_table": "2025-09-04 23:58:19 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/bouncing_betty": {
     "criteria": {
       "has_iron": "2025-09-04 23:36:40 +0000"
@@ -1729,6 +1729,12 @@
   "aether:recipes/combat/iron_pendant": {
     "criteria": {
       "has_iron_ingot": "2025-09-04 23:36:40 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed_by": "2025-09-04 23:56:46 +0000"
     },
     "done": true
   },
