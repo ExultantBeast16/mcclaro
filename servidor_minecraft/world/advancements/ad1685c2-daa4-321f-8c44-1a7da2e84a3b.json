@@ -336,6 +336,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "muskeg": "2025-09-04 15:04:16 +0000",
+      "woodland": "2025-09-05 00:09:40 +0000",
       "shrubland": "2025-09-04 06:13:16 +0000",
       "snowblossom_grove": "2025-09-04 15:04:21 +0000",
       "rocky_shrubland": "2025-09-04 06:09:04 +0000",
@@ -346,9 +347,11 @@
       "orchard": "2025-09-04 06:13:57 +0000",
       "overgrown_greens": "2025-09-04 06:13:50 +0000",
       "mediterranean_forest": "2025-09-04 05:53:06 +0000",
+      "rocky_rainforest": "2025-09-05 00:11:29 +0000",
       "volcanic_plains": "2025-09-04 05:49:54 +0000",
       "pumpkin_patch": "2025-09-04 06:14:01 +0000",
-      "grassland": "2025-09-04 06:09:05 +0000"
+      "grassland": "2025-09-04 06:09:05 +0000",
+      "rainforest": "2025-09-05 00:09:16 +0000"
     },
     "done": false
   },
@@ -382,6 +385,7 @@
       "minecraft:birch_forest": "2025-09-04 06:08:05 +0000",
       "minecraft:beach": "2025-09-04 05:51:28 +0000",
       "minecraft:dark_forest": "2025-09-04 06:01:18 +0000",
+      "minecraft:sparse_jungle": "2025-09-05 00:11:18 +0000",
       "minecraft:lukewarm_ocean": "2025-09-04 05:52:34 +0000",
       "minecraft:river": "2025-09-04 06:01:14 +0000",
       "minecraft:stony_shore": "2025-09-04 06:14:02 +0000",
@@ -984,9 +988,10 @@
   },
   "blue_skies:thinking_with_portals": {
     "criteria": {
-      "enter_everdawn": "2025-09-04 06:11:35 +0000"
+      "enter_everdawn": "2025-09-04 06:11:35 +0000",
+      "enter_everbright": "2025-09-05 00:08:10 +0000"
     },
-    "done": false
+    "done": true
   },
   "blue_skies:everdawn/enter": {
     "criteria": {
@@ -1287,6 +1292,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/decorations/chests/diamond_obsidian_chest": {
+    "criteria": {
+      "has_obsidian": "2025-09-05 00:11:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-09-04 23:36:40 +0000"
@@ -1563,6 +1574,12 @@
     },
     "done": true
   },
+  "blue_skies:everbright/enter": {
+    "criteria": {
+      "enter_everbright": "2025-09-05 00:08:10 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/empty_blaze_burner": {
     "criteria": {
       "has_item": "2025-09-04 23:36:40 +0000"
@@ -1665,6 +1682,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-09-05 00:11:40 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:main/kill_warden": {
     "criteria": {
       "warden": "2025-09-04 23:44:20 +0000"
@@ -1692,6 +1715,12 @@
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2025-09-04 23:36:40 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/flint_and_steel_repairing": {
+    "criteria": {
+      "has_flint_and_steel": "2025-09-05 00:12:06 +0000"
     },
     "done": true
   },
@@ -1855,6 +1884,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-09-04 23:36:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-09-05 00:11:40 +0000"
     },
     "done": true
   },
@@ -2038,9 +2073,21 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/obsidian_dust": {
+    "criteria": {
+      "has_obsidian": "2025-09-05 00:11:40 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/iron_dust_from_ingot": {
     "criteria": {
       "has_iron_ingot": "2025-09-04 23:36:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-09-05 00:11:40 +0000"
     },
     "done": true
   },
