@@ -1065,3 +1065,14 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:set_components'
 [05Sep2025 18:16:03.458] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
 [05Sep2025 18:16:07.520] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ExultantBeast16 moved too quickly! 2.661171020543975,-1.54821554243496,-10.136698427007786
 [05Sep2025 18:16:09.122] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ExultantBeast16 moved too quickly! -1.1596597883102504,3.8445663164694253,-9.387456249096886
+[05Sep2025 18:21:04.982] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing events...
+[05Sep2025 18:21:04.983] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing memory leaks so far...
+[05Sep2025 18:21:04.983] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Waiting to stabilize [5/10]
+[05Sep2025 18:21:04.983] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[05Sep2025 18:21:04.983] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: | ChunkAccess:
+[05Sep2025 18:21:04.983] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: |- LevelChunk (minecraft): 1602
+[05Sep2025 18:21:11.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExultantBeast16 has made the advancement [Dungeon Now Loading]
+[05Sep2025 18:23:53.301] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-12 absolute--40 absolute]
+[05Sep2025 18:23:55.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExultantBeast16 has made the advancement [Astral]
+[05Sep2025 18:23:55.236] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3266ms or 65 ticks behind
+[05Sep2025 18:25:28.923] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/11406, l='ServerLevel[world]', x=96.50, y=67.00, z=928.50] died, message: 'Unemployed suffocated in a wall'
