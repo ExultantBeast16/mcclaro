@@ -1074,3 +1074,14 @@ dev.uncandango.alltheleaks.exceptions.ATLIllegalState: Cannot have null removal 
 	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23469!/:?]
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23469!/:?]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[07Sep2025 14:38:00.529] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing events...
+[07Sep2025 14:38:00.530] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Server Player Clone: 1
+[07Sep2025 14:38:00.531] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]:   Invalid Cloned Players: 1
+[07Sep2025 14:38:00.531] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing memory leaks so far...
+[07Sep2025 14:38:00.532] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Waiting to stabilize [1/10]
+[07Sep2025 14:38:00.532] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[07Sep2025 14:38:00.532] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: | Player:
+[07Sep2025 14:38:00.533] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: |- ServerPlayer (minecraft): 1
+[07Sep2025 14:38:00.533] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: | ChunkAccess:
+[07Sep2025 14:38:00.533] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: |- LevelChunk (minecraft): 51
+[07Sep2025 14:44:08.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ExultantBeast16: Set the time to 1000]
