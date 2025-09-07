@@ -1085,3 +1085,38 @@ dev.uncandango.alltheleaks.exceptions.ATLIllegalState: Cannot have null removal 
 [07Sep2025 14:38:00.533] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: | ChunkAccess:
 [07Sep2025 14:38:00.533] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: |- LevelChunk (minecraft): 51
 [07Sep2025 14:44:08.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ExultantBeast16: Set the time to 1000]
+[07Sep2025 14:48:00.502] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing events...
+[07Sep2025 14:48:00.503] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Server Player Clone: 1
+[07Sep2025 14:48:00.504] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]:   Invalid Cloned Players: 1
+[07Sep2025 14:48:00.504] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing memory leaks so far...
+[07Sep2025 14:48:00.505] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Waiting to stabilize [2/10]
+[07Sep2025 14:48:00.506] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[07Sep2025 14:48:00.506] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: | Player:
+[07Sep2025 14:48:00.506] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: |- ServerPlayer (minecraft): 1
+[07Sep2025 14:48:00.506] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: | ChunkAccess:
+[07Sep2025 14:48:00.506] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: |- LevelChunk (minecraft): 51
+[07Sep2025 14:55:22.749] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element dungeonnowloading:labyrinth took 728 ms
+[07Sep2025 14:55:43.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ExultantBeast16: Teleported ExultantBeast16 to 4000.500000, 200.000000, 10000.500000]
+[07Sep2025 14:55:43.801] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3774ms or 75 ticks behind
+[07Sep2025 14:55:51.021] [Server thread/WARN] [jeg/]: literal{ExultantBeast16}(ad1685c2-daa4-321f-8c44-1a7da2e84a3b) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 77
+[07Sep2025 14:56:06.709] [Worker-Main-15/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/6339, l='ServerLevel[world]', x=4175.50, y=22.00, z=9892.50] as it would cause deadlock
+[07Sep2025 14:56:06.710] [Worker-Main-15/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/6341, l='ServerLevel[world]', x=4175.50, y=22.00, z=9900.50] as it would cause deadlock
+[07Sep2025 14:56:07.251] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element dungeonnowloading:labyrinth took 0 ms
+[07Sep2025 14:56:15.505] [Worker-Main-15/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/6434, l='ServerLevel[world]', x=4182.50, y=-56.00, z=9974.50] as it would cause deadlock
+[07Sep2025 14:56:20.454] [Worker-Main-16/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/6502, l='ServerLevel[world]', x=4196.50, y=-53.00, z=9926.50] as it would cause deadlock
+[07Sep2025 14:56:20.553] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3526ms or 70 ticks behind
+[07Sep2025 14:56:23.081] [Worker-Main-16/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:56:25.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ExultantBeast16: Teleported ExultantBeast16 to 4224.500000, 150.000000, 10000.500000]
+[07Sep2025 14:56:25.765] [Worker-Main-23/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/6575, l='ServerLevel[world]', x=4226.50, y=22.00, z=10058.50] as it would cause deadlock
+[07Sep2025 14:56:26.246] [Worker-Main-16/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/6582, l='ServerLevel[world]', x=4224.50, y=22.00, z=9966.50] as it would cause deadlock
+[07Sep2025 14:56:26.264] [Worker-Main-16/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/6584, l='ServerLevel[world]', x=4216.50, y=22.00, z=9966.50] as it would cause deadlock
+[07Sep2025 14:56:26.460] [Worker-Main-15/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/6591, l='ServerLevel[world]', x=4272.50, y=-3.00, z=9974.50] as it would cause deadlock
+[07Sep2025 14:56:26.646] [Worker-Main-23/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/6601, l='ServerLevel[world]', x=4268.50, y=-3.00, z=10072.50] as it would cause deadlock
+[07Sep2025 14:56:27.506] [Worker-Main-15/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/6620, l='ServerLevel[world]', x=4301.50, y=-28.00, z=9999.50] as it would cause deadlock
+[07Sep2025 14:56:27.507] [Worker-Main-15/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/6622, l='ServerLevel[world]', x=4293.50, y=-28.00, z=9999.50] as it would cause deadlock
+[07Sep2025 14:56:28.996] [Worker-Main-15/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/6685, l='ServerLevel[world]', x=4268.50, y=-3.00, z=10080.50] as it would cause deadlock
+[07Sep2025 14:56:44.671] [Worker-Main-15/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/6955, l='ServerLevel[world]', x=4416.50, y=-53.00, z=9975.50] as it would cause deadlock
+[07Sep2025 14:56:44.800] [Worker-Main-16/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/6959, l='ServerLevel[world]', x=4422.50, y=-53.00, z=10044.50] as it would cause deadlock
+[07Sep2025 14:56:44.810] [Worker-Main-14/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/6961, l='ServerLevel[world]', x=4422.50, y=-53.00, z=10052.50] as it would cause deadlock
+[07Sep2025 14:56:45.591] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-40, z=-499}
+[07Sep2025 14:56:45.592] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-40, z=-503}
