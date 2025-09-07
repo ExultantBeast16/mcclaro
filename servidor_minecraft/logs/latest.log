@@ -1120,3 +1120,571 @@ dev.uncandango.alltheleaks.exceptions.ATLIllegalState: Cannot have null removal 
 [07Sep2025 14:56:44.810] [Worker-Main-14/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/6961, l='ServerLevel[world]', x=4422.50, y=-53.00, z=10052.50] as it would cause deadlock
 [07Sep2025 14:56:45.591] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-40, z=-499}
 [07Sep2025 14:56:45.592] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-40, z=-503}
+[07Sep2025 14:57:13.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ExultantBeast16: Set own game mode to Spectator Mode]
+[07Sep2025 14:57:44.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ExultantBeast16: Set own game mode to Creative Mode]
+[07Sep2025 14:57:59.204] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.204] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.205] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.205] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.205] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.205] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.205] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.206] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.206] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.206] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.206] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.207] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.207] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.207] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.207] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.207] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.208] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.208] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.208] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.208] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.209] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.209] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.209] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.209] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.210] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.210] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.210] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.210] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.210] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.210] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.758] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.758] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.758] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.758] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.759] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.759] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.759] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.759] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.759] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.760] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.760] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.760] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.760] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.761] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.761] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.761] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.761] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.762] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.762] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.762] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.762] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.762] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.763] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.763] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.763] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.763] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.764] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.764] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.764] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.764] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.941] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.941] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.942] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.942] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.942] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.942] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.943] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.943] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.943] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.943] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.943] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.944] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.944] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.944] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.944] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.944] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.945] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.945] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.945] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.945] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.945] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.946] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.946] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.946] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.946] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.947] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.947] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.947] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.947] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:57:59.947] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:02.997] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:02.998] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:02.998] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:02.998] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:02.998] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:02.999] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:02.999] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:02.999] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:02.999] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:02.999] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.000] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.000] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.000] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.000] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.001] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.001] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.001] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.001] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.001] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.002] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.002] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.002] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.002] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.003] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.003] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.003] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.003] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.003] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.004] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.004] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.645] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.645] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.646] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.646] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.646] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.646] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.646] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.647] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.647] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.647] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.647] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.647] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.648] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.648] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.648] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.648] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.648] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.649] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.649] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.649] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.649] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.649] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.649] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.650] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.650] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.650] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.650] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.650] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.651] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.651] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.802] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.803] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.803] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.803] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.804] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.804] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.804] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.804] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.804] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.804] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.805] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.805] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.805] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.806] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.806] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.806] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.806] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.806] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.807] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.807] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.807] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.807] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.807] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.808] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.808] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.808] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.808] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.808] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.809] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:03.809] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:04.488] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:04.489] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:04.489] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:04.489] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:04.489] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:04.489] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:04.490] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:04.490] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:04.490] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:04.490] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:04.490] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:04.491] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:04.491] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:04.491] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:04.491] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:04.492] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:04.492] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:04.492] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:04.492] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:04.492] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:04.493] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:04.493] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:04.493] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:04.493] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:04.493] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:04.494] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:04.494] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:04.494] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:04.494] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:04.494] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:07.664] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:58:07.818] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing events...
+[07Sep2025 14:58:07.818] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Server Player Clone: 1
+[07Sep2025 14:58:07.818] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]:   Invalid Cloned Players: 1
+[07Sep2025 14:58:07.818] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing memory leaks so far...
+[07Sep2025 14:58:07.818] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Waiting to stabilize [3/10]
+[07Sep2025 14:58:07.818] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[07Sep2025 14:58:07.818] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: | Player:
+[07Sep2025 14:58:07.818] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: |- ServerPlayer (minecraft): 1
+[07Sep2025 14:58:07.819] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: | ChunkAccess:
+[07Sep2025 14:58:07.819] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: |- LevelChunk (minecraft): 211
+[07Sep2025 14:58:58.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ExultantBeast16: Successfully filled 1 block(s)]
+[07Sep2025 14:59:09.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ExultantBeast16: Successfully filled 1 block(s)]
+[07Sep2025 14:59:12.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExultantBeast16 has made the advancement [Below the Bedrock]
+[07Sep2025 14:59:12.241] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[07Sep2025 14:59:14.847] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [0 above bottom--8 absolute]
+[07Sep2025 14:59:17.332] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ExultantBeast16 moved too quickly! 0.49499407446455734,125.9375,0.0
+[07Sep2025 14:59:28.245] [Server thread/WARN] [tombstone/]: The death event of the player ExultantBeast16 was canceled by another mod
+[07Sep2025 14:59:28.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ExultantBeast16: Killed ExultantBeast16]
+[07Sep2025 14:59:28.247] [Server thread/INFO] [tombstone/]: The player ExultantBeast16 has successfully been saved
+[07Sep2025 14:59:30.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExultantBeast16 was killed
+[07Sep2025 14:59:30.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ExultantBeast16: Killed ExultantBeast16]
+[07Sep2025 14:59:30.744] [Server thread/INFO] [tombstone/]: The player ExultantBeast16 has successfully been saved
+[07Sep2025 14:59:32.130] [Server thread/ERROR] [dev.uncandango.alltheleaks.AllTheLeaks/]: Cloned player is invalid, removal reason is null!
+dev.uncandango.alltheleaks.exceptions.ATLIllegalState: Cannot have null removal reason on Clone event!
+	at dev.uncandango.alltheleaks.events.common.GameBusEvent.onPlayerCloneLowest(GameBusEvent.java:39) ~[alltheleaks-1.0.2+1.20.1-forge.jar%23291!/:1.0.2+1.20.1-forge]
+	at dev.uncandango.alltheleaks.events.common.__GameBusEvent_onPlayerCloneLowest_Clone.invoke(.dynamic) ~[alltheleaks-1.0.2+1.20.1-forge.jar%23291!/:1.0.2+1.20.1-forge]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.event.ForgeEventFactory.onPlayerClone(ForgeEventFactory.java:540) ~[forge-1.20.1-47.4.6-universal.jar%23474!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9015_(ServerPlayer.java:1159) ~[server-1.20.1-20230612.114412-srg.jar%23469!/:?]
+	at net.minecraft.server.players.PlayerList.m_11236_(PlayerList.java:442) ~[server-1.20.1-20230612.114412-srg.jar%23469!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6272_(ServerGamePacketListenerImpl.java:1515) ~[server-1.20.1-20230612.114412-srg.jar%23469!/:?]
+	at net.minecraft.network.protocol.game.ServerboundClientCommandPacket.m_5797_(ServerboundClientCommandPacket.java:24) ~[server-1.20.1-20230612.114412-srg.jar%23469!/:?]
+	at net.minecraft.network.protocol.game.ServerboundClientCommandPacket.m_5797_(ServerboundClientCommandPacket.java:6) ~[server-1.20.1-20230612.114412-srg.jar%23469!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23469!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23469!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23469!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23469!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23469!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23469!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23469!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23469!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23469!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23469!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23469!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23469!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23469!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[07Sep2025 15:00:27.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ExultantBeast16: Successfully filled 1 block(s)]
+[07Sep2025 15:00:45.881] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:00:45.881] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:00:46.131] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:00:46.131] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:00:46.380] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:00:46.380] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:00:46.631] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:00:46.631] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:00:46.881] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:00:46.881] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:00:47.131] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:00:47.131] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:00:47.380] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:00:47.381] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:00:47.631] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:00:47.631] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:00:47.880] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:00:47.881] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:00:48.131] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:00:48.132] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:00:48.380] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:00:48.381] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:00:48.631] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:00:48.631] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:00:48.880] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:00:48.881] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:00:49.131] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:00:49.131] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:00:49.381] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:00:49.381] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:00:49.631] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:00:49.631] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:00:49.881] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:00:49.881] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:00:50.131] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:00:50.132] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:00:50.380] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:00:50.381] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:00:50.633] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:00:50.633] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:00:50.881] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:00:50.881] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:00:51.131] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:00:51.131] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:00:51.381] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:00:51.381] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:00:51.631] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:00:51.632] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:00:51.881] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:00:51.881] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:00:52.132] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:00:52.132] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:00:52.381] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:00:52.381] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:00:52.631] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:00:52.632] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:00:52.881] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:00:52.881] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:00:53.131] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:00:53.131] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:00:53.381] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:00:53.382] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:00:53.631] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:00:53.631] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:00:53.880] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:00:53.880] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:00:54.131] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:00:54.131] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:00:54.380] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:00:54.381] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:00:54.631] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:00:54.631] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:00:54.881] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:00:54.881] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:00:55.131] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:00:55.131] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:00:55.381] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:00:55.381] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:00:55.631] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:00:55.631] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:00:55.881] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:00:55.881] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:00:56.131] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:00:56.131] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:00:56.381] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:00:56.381] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:00:56.631] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:00:56.631] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:00:56.880] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:00:56.881] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:00:57.130] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:00:57.130] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:00:57.380] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:00:57.380] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:00:57.630] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:00:57.631] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:00:57.882] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:00:57.882] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:00:58.130] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:00:58.130] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:00:58.381] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:00:58.381] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:00:58.631] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:00:58.631] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:00:58.880] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:00:58.880] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:00:59.131] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:00:59.131] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:00:59.380] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:00:59.381] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:00:59.631] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:00:59.631] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:00:59.881] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:00:59.882] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:00.131] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:00.131] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:00.382] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:00.382] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:00.633] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:00.633] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:00.881] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:00.881] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:01.131] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:01.131] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:01.380] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:01.381] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:01.631] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:01.631] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:01.881] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:01.881] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:02.132] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:02.132] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:02.381] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:02.381] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:02.631] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:02.631] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:02.880] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:02.880] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:03.131] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:03.131] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:03.381] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:03.381] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:03.631] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:03.631] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:03.880] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:03.881] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:04.131] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:04.131] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:04.380] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:04.381] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:04.632] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:04.632] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:04.881] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:04.881] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:05.130] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:05.131] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:05.381] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:05.381] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:05.631] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:05.631] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:05.881] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:05.881] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:06.131] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:06.131] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:06.381] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:06.381] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:06.632] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:06.632] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:06.881] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:06.881] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:07.131] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:07.132] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:07.382] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:07.382] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:07.631] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:07.632] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:07.880] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:07.880] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:08.131] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:08.131] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:08.381] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:08.381] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:08.631] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:08.632] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:08.881] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:08.881] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:09.131] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:09.131] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:09.380] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:09.380] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:09.631] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:09.632] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:09.881] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:09.881] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:10.130] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:10.130] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:10.381] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:10.381] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:10.635] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:10.635] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:10.880] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:10.880] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:11.130] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:11.130] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:11.381] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:11.381] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:11.631] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:11.631] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:11.868] [Server thread/ERROR] [dev.uncandango.alltheleaks.AllTheLeaks/]: Cloned player is invalid, removal reason is null!
+dev.uncandango.alltheleaks.exceptions.ATLIllegalState: Cannot have null removal reason on Clone event!
+	at dev.uncandango.alltheleaks.events.common.GameBusEvent.onPlayerCloneLowest(GameBusEvent.java:39) ~[alltheleaks-1.0.2+1.20.1-forge.jar%23291!/:1.0.2+1.20.1-forge]
+	at dev.uncandango.alltheleaks.events.common.__GameBusEvent_onPlayerCloneLowest_Clone.invoke(.dynamic) ~[alltheleaks-1.0.2+1.20.1-forge.jar%23291!/:1.0.2+1.20.1-forge]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.event.ForgeEventFactory.onPlayerClone(ForgeEventFactory.java:540) ~[forge-1.20.1-47.4.6-universal.jar%23474!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9015_(ServerPlayer.java:1159) ~[server-1.20.1-20230612.114412-srg.jar%23469!/:?]
+	at net.minecraft.server.players.PlayerList.m_11236_(PlayerList.java:442) ~[server-1.20.1-20230612.114412-srg.jar%23469!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6272_(ServerGamePacketListenerImpl.java:1508) ~[server-1.20.1-20230612.114412-srg.jar%23469!/:?]
+	at net.minecraft.network.protocol.game.ServerboundClientCommandPacket.m_5797_(ServerboundClientCommandPacket.java:24) ~[server-1.20.1-20230612.114412-srg.jar%23469!/:?]
+	at net.minecraft.network.protocol.game.ServerboundClientCommandPacket.m_5797_(ServerboundClientCommandPacket.java:6) ~[server-1.20.1-20230612.114412-srg.jar%23469!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23469!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23469!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23469!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23469!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23469!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23469!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23469!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23469!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23469!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23469!/:?]
+	at net.minecraft.server.MinecraftServer.mixinextras$bridge$m_18701_$279(MinecraftServer.java) ~[server-1.20.1-20230612.114412-srg.jar%23469!/:?]
+	at net.minecraft.server.MinecraftServer.wrapOperation$zbm000$managedBlock(MinecraftServer.java:1856) ~[server-1.20.1-20230612.114412-srg.jar%23469!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23469!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23469!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23469!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[07Sep2025 15:01:30.355] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ExultantBeast16 moved too quickly! 103.73657924394341,-18.02469897113042,28.633226513860404
+[07Sep2025 15:01:41.631] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:41.631] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:41.880] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:41.880] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:42.131] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:42.131] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:42.380] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:42.381] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:42.634] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:42.634] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:42.880] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:42.880] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:43.131] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:43.131] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:43.381] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:43.382] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:43.631] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:43.631] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:43.881] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:43.881] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:44.132] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:44.132] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:44.380] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:44.380] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:44.631] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:44.631] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:44.880] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:44.880] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:45.132] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:45.133] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:45.381] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:45.381] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:45.631] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:45.631] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:45.880] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:45.880] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:46.132] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:46.132] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:46.380] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:46.381] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:46.630] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:46.631] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:46.881] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:46.881] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:47.130] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:47.130] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:47.380] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:47.380] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:47.631] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:47.631] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:47.880] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:47.881] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:48.133] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:48.133] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:48.381] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:48.381] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:48.631] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:48.631] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:48.880] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:48.880] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:49.131] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[07Sep2025 15:01:49.131] [Server thread/INFO] [betterendisland/]: Unable to find all 4 summoning crystals. This shouldn't happen!
+[07Sep2025 15:01:49.320] [Server thread/INFO] [betterendisland/]: Found all crystals, respawning dragon.
+[07Sep2025 15:02:19.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExultantBeast16 has reached the goal [The End... Again...]
+[07Sep2025 15:02:19.487] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=56, z=0}
+[07Sep2025 15:04:14.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ExultantBeast16: Gave 1 [Wither Spawn Egg] to ExultantBeast16]
+[07Sep2025 15:06:31.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExultantBeast16 has completed the challenge [Praise the Sun]
